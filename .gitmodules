@@ -1,0 +1,9 @@
+[submodule "os"]
+	path = os
+	url = https://github.com/BragdonD/operating-systems
+[submodule "devops"]
+	path = devops
+	url = https://github.com/BragdonD/ece-devops-duclos
+[submodule "db"]
+	path = db
+	url = https://github.com/BragdonD/advanced-database
