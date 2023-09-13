@@ -7,3 +7,6 @@
 [submodule "db"]
 	path = db
 	url = https://github.com/BragdonD/advanced-database
+[submodule "webtech"]
+	path = webtech
+	url = https://github.com/BragdonD/ece-webtech-2023-fall-gr02-11.git
