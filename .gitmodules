@@ -1,12 +1,12 @@
 [submodule "os"]
 	path = os
-	url = https://github.com/BragdonD/operating-systems-ece-fall-2023
+	url = https://github.com/BragdonD/operating-systems-ece-fall-2023.git
 [submodule "devops"]
 	path = devops
-	url = https://github.com/BragdonD/devops-duclos-ece-fall-2023
+	url = https://github.com/BragdonD/devops-duclos-ece-fall-2023.git
 [submodule "db"]
 	path = db
-	url = https://github.com/BragdonD/database-ece-fall-2023
+	url = https://github.com/BragdonD/database-ece-fall-2023.git
 [submodule "webtech"]
 	path = webtech
 	url = https://github.com/BragdonD/ece-webtech-2023-fall-gr02-11.git
