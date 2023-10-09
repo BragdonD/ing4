@@ -10,3 +10,6 @@
 [submodule "webtech"]
 	path = webtech
 	url = https://github.com/BragdonD/ece-webtech-2023-fall-gr02-11.git
+[submodule "computer-network"]
+	path = computer-network
+	url = https://github.com/BragdonD/computer-network-ece-fall-2023.git
