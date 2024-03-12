@@ -13,3 +13,6 @@
 [submodule "computer-network"]
 	path = computer-network
 	url = https://github.com/BragdonD/computer-network-ece-fall-2023.git
+[submodule "security-networks"]
+	path = security-networks
+	url = https://github.com/BragdonD/ece-ing4-si-network-security-spring-2024.git
